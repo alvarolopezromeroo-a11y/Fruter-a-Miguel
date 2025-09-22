@@ -22,7 +22,7 @@ Fue uno de los primeros intentos en la historia de mecanizar los cálculos.
 ![Blaise Pascal](img/pascal.jpg)  
 
 ## ❌ ¿Por qué no tuvo el éxito esperado?  
-- Era muy **costosa de fabricar**.  
+- Era muy **costosa de fabricar**.  a
 - Su **uso era limitado** a operaciones básicas.  
 - No resultaba práctica para un uso cotidiano.  
 - Tuvo poco interés comercial fuera del ámbito contable.  
