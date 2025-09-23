@@ -1,3 +1,3 @@
 # INDICE:
 
-[DETECTIVES_INFORMATICOS] (Detectives_Informaticos/documento.md)
+[DETECTIVES_INFORMATICOS](Detectives_Informaticos/documento.md)
