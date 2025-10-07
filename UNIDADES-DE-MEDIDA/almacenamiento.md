@@ -13,13 +13,20 @@
 
 # 6. Investiga la capacidad de un disquete de 31⁄2. ¿Cuántos disquetes puedes grabar en un DVD de DOBLE CAPA?. ¿Y en un CD de 700 MB?
 
-Medio	                      Capacidad	                    Equivale a...
-Disquete 3½″	              1.44 MB	                      —
-CD 700 MB	                  700 MB	                      ≈ 486 disquetes
-DVD doble capa	            8.5 GB	                      ≈ 5 900 disquetes
+- Medio	                      - Capacidad	                    - Equivale a...
+- Disquete 3½″	     =         1.44 MB	         =             —
+- CD 700 MB	         =         700 MB	           =           ≈ 486 disquetes
+- DVD doble capa	     =       8.5 GB	            =          ≈ 5 900 disquetes
 
 
 # 8. ¿A cuántos CD's equivale un DVD? ¿Y un pendrive de 8 GB?
 
+- 1 DVD (4.7 GB)	= 7 CDs
+- 1 DVD doble capa (8.5 GB)	= 12 CDs
+- 1 Pendrive de 8 GB	= 11 CDs
 
 # 10. Si te compras un disco duro portatil (USB) de 1TB, ¿cuántos DVD's teóricamente podrías volcar en él?
+
+- Tipo de DVD	Capacidad	DVD equivalentes en 1 TB
+- DVD (una capa)	4.7 GB	    = 213
+- DVD (doble capa)	8.5 GB	  = 118
