@@ -2,16 +2,16 @@
 
 - 4 000 000 000 bytes
 
-# 3. ¿Cuántos KB/s bajas con una línea ADSL de 6 Mb?
+# 2. ¿Cuántos KB/s bajas con una línea ADSL de 6 Mb?
 
 - 768 KB/s
 
-# 4. ¿Cuántos MB puedes bajarte al minuto con la línea ADSL anterior?
+# 3. ¿Cuántos MB puedes bajarte al minuto con la línea ADSL anterior?
 
 - 768×60÷1024≈45 MB/min
 - Real aproximada: ≈ 41 MB por minuto
 
-# 6. Investiga la capacidad de un disquete de 31⁄2. ¿Cuántos disquetes puedes grabar en un DVD de DOBLE CAPA?. ¿Y en un CD de 700 MB?
+# 4. Investiga la capacidad de un disquete de 31⁄2. ¿Cuántos disquetes puedes grabar en un DVD de DOBLE CAPA?. ¿Y en un CD de 700 MB?
 
 - Medio	                      - Capacidad	                    - Equivale a...
 - Disquete 3½″	     =         1.44 MB	         =             —
@@ -19,20 +19,22 @@
 - DVD doble capa	     =       8.5 GB	            =          ≈ 5 900 disquetes
 
 
-# 8. ¿A cuántos CD's equivale un DVD? ¿Y un pendrive de 8 GB?
+# 5. ¿A cuántos CD's equivale un DVD? ¿Y un pendrive de 8 GB?
 
 - 1 DVD (4.7 GB)	= 7 CDs
 - 1 DVD doble capa (8.5 GB)	= 12 CDs
 - 1 Pendrive de 8 GB	= 11 CDs
 
-# 10. Si te compras un disco duro portatil (USB) de 1TB, ¿cuántos DVD's teóricamente podrías volcar en él?
+# 6. Si te compras un disco duro portatil (USB) de 1TB, ¿cuántos DVD's teóricamente podrías volcar en él?
 
 - Tipo de DVD	Capacidad	DVD equivalentes en 1 TB
 - DVD (una capa)	4.7 GB	    = 213
 - DVD (doble capa)	8.5 GB	  = 118
 
-# 11. Ver una película utilizando una conexión wi-fi (velocidad de transferencia aprox. 54Mb/s) entre un Smart Tv y una Notebook tamaño de la película 3Gb. Duración de la película: 156 min. La puedo ver bien o se corta? 
+# 7. Ver una película utilizando una conexión wi-fi (velocidad de transferencia aprox. 54Mb/s) entre un Smart Tv y una Notebook tamaño de la película 3Gb. Duración de la película: 156 min. La puedo ver bien o se corta? 
 
 - Podrías transferir toda la película en unos 7 minutos.
 - Sí, podrás ver la película sin cortes, siempre que la conexión Wi-Fi sea estable y no haya interferencias.
 Incluso con pérdidas o fluctuaciones, la velocidad es muy superior a lo que el video necesita.
+
+
