@@ -30,3 +30,9 @@
 - Tipo de DVD	Capacidad	DVD equivalentes en 1 TB
 - DVD (una capa)	4.7 GB	    = 213
 - DVD (doble capa)	8.5 GB	  = 118
+
+# 11. Ver una película utilizando una conexión wi-fi (velocidad de transferencia aprox. 54Mb/s) entre un Smart Tv y una Notebook tamaño de la película 3Gb. Duración de la película: 156 min. La puedo ver bien o se corta? 
+
+- Podrías transferir toda la película en unos 7 minutos.
+- Sí, podrás ver la película sin cortes, siempre que la conexión Wi-Fi sea estable y no haya interferencias.
+Incluso con pérdidas o fluctuaciones, la velocidad es muy superior a lo que el video necesita.
