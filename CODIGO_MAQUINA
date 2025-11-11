@@ -10,6 +10,27 @@
 7 ['00000000']
 
 12 - 7 = 5 --> M6
+0  00000111  +12
+1  00010101     -7
+2  01100110        mover a la memoria 6
+3  0111----                              finalizar
+4  --------
+5  00000111      Dato con valor 7
+6
+7  00001100      Dato con valor 12
+
+
+2 + 4 + 2 = 8 --> M1
+0 00000111  +2
+1 00000110        +4
+2 00000111            +2
+3 01100001                Mover posicion de memoria 1
+4 01110000                                            Finalizar
+5 --------
+6 00000100  Dato con valor 4
+7 00000010  Dato con valor 2
+
+
 
 Códigos de operación:
 | Inst | D | Comentario |
